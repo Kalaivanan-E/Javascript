@@ -1,0 +1,34 @@
+03/07/2025
+
+difference between array and object
+
+
+               Array  						     Object
+
+ *var uids=[101,102,103,101,101,"rs"]            * var emp ={'eid':101,'eid':102,'ename':'rahul'}
+
+ *Group of element as one entity                 * Group of key: value pairs as one entity.
+
+ *Array element storing based on indexing        * indexing is not applicable.
+
+ *It allowed duplicates & heterogeneous element  * duplicate keys are not allowed but values are allowed
+
+ *Insertion order maintain                       * order not applicable.
+
+ *js array is iterable object we iterate using   * js object is not iterable we can iterate using for-in
+ ( for loop,while loop, do while loop,for of)
+
+ * length property(eids.length)                  * no length property.
+
+
+
+			node js
+
+node                          npm -node package manage
+js runtime environment      
+
+
+
+control flow statement
+	*conditional flow (if, if-else, switch case break default, ternary operator).
+	*iterative flow (for, while, do while, for-of, for-in).

@@ -1,0 +1,7 @@
+
+// to read array elements using while loop
+i=0;
+while(i<=4){
+    console.log(eids[i]);
+    i++;
+}

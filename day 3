@@ -1,0 +1,26 @@
+02/07/2025
+
+JAVASCRIPT ARRAY:
+
+	*Array is a Group of elements as one entity.
+	*By using [].
+	*It allowed duplicates and heterogeneous elements.
+	*Heterogeneous: Arrays can store elements of different data types (numbers, strings, objects and other arrays).
+	*Array element are storing based on indexing(start with 0 to n-1).
+	*Negative indexing is not possible.
+	*Array is a iterable object(for loop, while loop, do while loop, for_of).
+
+JAVASCRIPT OBJECT:
+	
+	*Object is a group of key: value pair as one entity.
+	*Object are created using {}.
+	*Duplicate key are not allowed in object.
+	*Group of data and functionality as one entity.
+	*Indexing concept is not applicable.
+	*Java Script object is not iterable object.
+	*how to read object? object.property(console.log(emp.id)  // 101)
+
+
+
+	*
+

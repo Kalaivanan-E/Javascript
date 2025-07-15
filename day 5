@@ -1,0 +1,77 @@
+04/07/2025:
+
+
+JAVASCRIPT OPERATOR:
+
+ * Arithmetic operator = +,-, *,/,%,**
+ * Relational operator = <,<=,>,>=
+ * Logical operator =  &&,||
+ * Equality operator = ==,===,!=
+ * Ternary operator = ?   :
+ * Increment/decrement operator= ++,--
+ * Bitwise operator
+
+
+Arithmetic operator:
+
+ * number + number = addition      ex: (10+10=20)
+
+ * "string"+ number = concatenation ex:("kalai"+16=kalai16)
+
+ * undefined + number = NaN (Not a Number)(g+10= undefined)
+
+ * number*number = number(10*3=30)
+
+ * "string"*number =NaN(Not a Number) ("kalai"*8=NaN)
+
+Relational operator:
+
+ Boolean type only True or False.
+
+   let sal=45000;
+   console.log(sal>40000) //true
+   console.log(sal==40000) //false
+
+     Example:
+	  let sal=45000;
+	      if(sal>=40000){
+		    console.log("eligible for marriage")}
+	      else{
+		    console.log("Not eligible for marriage")}
+
+Logical Operator:
+
+            &&  ||
+    T   T   T    T
+    T   F   F    T
+    F   T   F    T
+    F   F   F    F
+
+    Example:
+
+	var num=49;
+           if(num>=100 && num<=999){
+               console.log("Given number is 3 digit")}
+	   else{
+       	       console.log("Given number is not 3 digit");
+  		}
+Equality operator:
+ 
+ * comparison operator(==) : (compare if values are equal)
+ * strict equality operator(===) : (compare if values and datatypes are equal)
+
+Ternary operator:
+
+ * condition and statement are in single line.
+
+ syntax:
+   
+      Condition statement? true statement : false statement;
+
+ example:
+      
+    var  
+      
+   
+
+

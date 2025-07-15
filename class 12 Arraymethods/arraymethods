@@ -1,0 +1,12 @@
+
+
+  Array Methods
+
+       *length()
+       *push(){}      = append element end of array.
+       *pop(){}       = remove the last element from array.
+       *shift(){}     = remove the element beginning of the array.s
+       *unshift(){}   = adding the element beginning of the array.
+       *reverse(){}
+       *indexof(){}	
+
