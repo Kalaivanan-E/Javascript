@@ -1,0 +1,162 @@
+let employee =[{"eid":1,"ename":"Serena","gender":"Kennet"},
+{"eid":2,"ename":"Karie","gender":"Domleo"},
+{"eid":3,"ename":"Agnese","gender":"Whybrow"},
+{"eid":4,"ename":"Dinny","gender":"Bodechon"},
+{"eid":5,"ename":"Rolland","gender":"Alam"},
+{"eid":6,"ename":"Matelda","gender":"Waulker"},
+{"eid":7,"ename":"Jorry","gender":"Turrell"},
+{"eid":8,"ename":"Ferguson","gender":"Trewhitt"},
+{"eid":9,"ename":"Sianna","gender":"Thaim"},
+{"eid":10,"ename":"Guglielma","gender":"De Gregoli"},
+{"eid":11,"ename":"Hanan","gender":"Firle"},
+{"eid":12,"ename":"Ephraim","gender":"Strainge"},
+{"eid":13,"ename":"Lemuel","gender":"Esslement"},
+{"eid":14,"ename":"Sybilla","gender":"Allsebrook"},
+{"eid":15,"ename":"Alissa","gender":"Bridgstock"},
+{"eid":16,"ename":"Mehetabel","gender":"Kenzie"},
+{"eid":17,"ename":"Kamila","gender":"Give"},
+{"eid":18,"ename":"Eliza","gender":"Benninger"},
+{"eid":19,"ename":"Cecilius","gender":"Trass"},
+{"eid":20,"ename":"Danyelle","gender":"Jostan"},
+{"eid":21,"ename":"Nanny","gender":"Mapston"},
+{"eid":22,"ename":"Dennie","gender":"Kilbee"},
+{"eid":23,"ename":"Risa","gender":"Matveiko"},
+{"eid":24,"ename":"Annabella","gender":"Lucius"},
+{"eid":25,"ename":"Kellby","gender":"Avramow"},
+{"eid":26,"ename":"Arabele","gender":"Duffin"},
+{"eid":27,"ename":"Natasha","gender":"Waszczykowski"},
+{"eid":28,"ename":"Demetrius","gender":"Coviello"},
+{"eid":29,"ename":"Lorne","gender":"Wilfing"},
+{"eid":30,"ename":"Amity","gender":"Brusle"},
+{"eid":31,"ename":"Emlyn","gender":"Wimlett"},
+{"eid":32,"ename":"Haroun","gender":"Dodsley"},
+{"eid":33,"ename":"Irina","gender":"Tubble"},
+{"eid":34,"ename":"Jehu","gender":"MacKibbon"},
+{"eid":35,"ename":"Gabi","gender":"Admans"},
+{"eid":36,"ename":"Fran","gender":"McAster"},
+{"eid":37,"ename":"Roslyn","gender":"Wimlet"},
+{"eid":38,"ename":"Carline","gender":"Scardafield"},
+{"eid":39,"ename":"Heidie","gender":"Rother"},
+{"eid":40,"ename":"Ailsun","gender":"Trenear"},
+{"eid":41,"ename":"Antons","gender":"Taggerty"},
+{"eid":42,"ename":"Quintilla","gender":"Bowe"},
+{"eid":43,"ename":"Bernelle","gender":"Dunk"},
+{"eid":44,"ename":"Pamella","gender":"Limbourne"},
+{"eid":45,"ename":"Jodie","gender":"Jarrel"},
+{"eid":46,"ename":"Rafaelita","gender":"Plet"},
+{"eid":47,"ename":"Jed","gender":"Dunkley"},
+{"eid":48,"ename":"Daryle","gender":"Mosconi"},
+{"eid":49,"ename":"Claus","gender":"Benes"},
+{"eid":50,"ename":"Vonnie","gender":"Hanlon"},
+{"eid":51,"ename":"Quillan","gender":"Gittoes"},
+{"eid":52,"ename":"Bea","gender":"Deeth"},
+{"eid":53,"ename":"Pietra","gender":"Fidal"},
+{"eid":54,"ename":"Colin","gender":"Bailes"},
+{"eid":55,"ename":"Stewart","gender":"Yegoshin"},
+{"eid":56,"ename":"Nataline","gender":"Adolfsen"},
+{"eid":57,"ename":"Reynold","gender":"Celiz"},
+{"eid":58,"ename":"Cyrus","gender":"Stirland"},
+{"eid":59,"ename":"Paulita","gender":"Richarz"},
+{"eid":60,"ename":"Tristan","gender":"Skene"},
+{"eid":61,"ename":"Kissie","gender":"Rubinovitsch"},
+{"eid":62,"ename":"Rhiamon","gender":"Brindley"},
+{"eid":63,"ename":"Tobe","gender":"Tritton"},
+{"eid":64,"ename":"Hebert","gender":"Henden"},
+{"eid":65,"ename":"Roda","gender":"Plowes"},
+{"eid":66,"ename":"Conroy","gender":"Vinter"},
+{"eid":67,"ename":"Anestassia","gender":"Polleye"},
+{"eid":68,"ename":"Chan","gender":"Caffery"},
+{"eid":69,"ename":"Myles","gender":"Ellison"},
+{"eid":70,"ename":"Hamel","gender":"Spraggs"},
+{"eid":71,"ename":"Sabrina","gender":"Ingerson"},
+{"eid":72,"ename":"Liv","gender":"Bockett"},
+{"eid":73,"ename":"Dulcy","gender":"McCracken"},
+{"eid":74,"ename":"Cori","gender":"Temple"},
+{"eid":75,"ename":"Laverne","gender":"Abbett"},
+{"eid":76,"ename":"Asia","gender":"Gumbley"},
+{"eid":77,"ename":"Matti","gender":"Malamore"},
+{"eid":78,"ename":"Nessy","gender":"MacDiarmid"},
+{"eid":79,"ename":"Cybill","gender":"Gloyens"},
+{"eid":80,"ename":"Cherie","gender":"Free"},
+{"eid":81,"ename":"Teddy","gender":"Barchrameev"},
+{"eid":82,"ename":"Alfons","gender":"O'Spillane"},
+{"eid":83,"ename":"Christiane","gender":"Trayford"},
+{"eid":84,"ename":"Catha","gender":"Texton"},
+{"eid":85,"ename":"Yuma","gender":"Barnicott"},
+{"eid":86,"ename":"Karney","gender":"Cavan"},
+{"eid":87,"ename":"Bryna","gender":"Robrow"},
+{"eid":88,"ename":"Sherry","gender":"Howat"},
+{"eid":89,"ename":"Karleen","gender":"Blint"},
+{"eid":90,"ename":"Si","gender":"Ginnaly"},
+{"eid":91,"ename":"Gaylord","gender":"Albany"},
+{"eid":92,"ename":"Odetta","gender":"Connah"},
+{"eid":93,"ename":"Karole","gender":"Albury"},
+{"eid":94,"ename":"Jone","gender":"Rubens"},
+{"eid":95,"ename":"Merline","gender":"Karlowicz"},
+{"eid":96,"ename":"Gussy","gender":"Cleator"},
+{"eid":97,"ename":"Connie","gender":"Godfery"},
+{"eid":98,"ename":"Agnes","gender":"Enrique"},
+{"eid":99,"ename":"Fleurette","gender":"Echlin"},
+{"eid":100,"ename":"Hadlee","gender":"Trippitt"}]
+
+let tbody = document.getElementById("emp");
+
+for (let i = 0; i < employee.length; i++) {
+    let tableRow = document.createElement("tr");
+
+    let td1 = document.createElement("td");
+    td1.textContent = employee[i].eid;
+
+    let td2 = document.createElement("td");
+    td2.textContent = employee[i].ename;
+
+    let td3 = document.createElement("td");
+    td3.textContent = employee[i].gender;
+
+    tableRow.appendChild(td1);
+    tableRow.appendChild(td2);
+    tableRow.appendChild(td3);
+
+    tbody.appendChild(tableRow);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//  let tbody=document.getElementById("emp")
+
+// for(let i=0; i<employee.length; i++){
+//     let table =document.createElement("tr")
+
+//      let td1=document.createElement("td")
+//      td1.textContent=arr[i].eid
+//      let td2=document.createElement("td")
+//      td2.textContent=arr[i].ename
+
+
+//      let td3=document.createElement("td")
+//      td3.textContent=arr[i].gender
+
+//      table.appendChild(td1)
+//      table.appendChild(td2)
+//      table.appendChild(td3)
+    
+//      tbody.appendChild(table)
+
+//  }
+
+// document.getElementsByTagName('tbody')[0].innerHTML='Gm'
