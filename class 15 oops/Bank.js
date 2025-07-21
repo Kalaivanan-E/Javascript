@@ -1,9 +1,9 @@
 
 
 class Account{
-    acc_Id;
-    acc_Name;
-    acc_Bal;
+    // acc_Id;
+    // acc_Name;
+    // acc_Bal;
     min_Bal=500;
     constructor(id,name,amount){
         this.acc_Id=id;
