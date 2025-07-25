@@ -10,5 +10,5 @@ console.log(new_prod_prices_map);
 
 // using foreach method
 
-let new_prod_prices_foreach = prod_prices.
+// let new_prod_prices_foreach = prod_prices.
 
