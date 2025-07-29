@@ -1,0 +1,26 @@
+
+ ... triple dot operator;
+
+  * spread operator is Extract and copy the elements of an array
+  * it create new array/ object.
+  * merge array/ object
+  * extending array element/ object properities.
+
+
+  javascript Es6 - new features;
+
+  1. let, const.
+  2. class
+  3. ()=>{} // arrow function.
+  4. ${} - string literal / read variable in the form string
+  5. []. newmethods() - foreach,map,filter,find,reduce
+  6. ... - triple dot operators(spread and rest)
+  7. Destructuring (array,object)
+  8. import and export - Es5 and Es6
+  9.asychronous programming
+    a) callback
+    b) promise
+    c) async and await
+ 10. closure
+ 11. set
+
