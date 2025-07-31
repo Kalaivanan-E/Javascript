@@ -1,0 +1,11 @@
+
+  Synchronous : 
+          *  Executing only one task at a time
+          *  It is blocking
+
+  Asynchronous:
+          *  Executing multiple request/task at a time
+          *  It is non blocking
+                * Callback - Passing function as a argument
+                * Promise
+                * async,await.
