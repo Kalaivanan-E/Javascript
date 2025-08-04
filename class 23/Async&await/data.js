@@ -25,7 +25,7 @@ let getEmployees=()=>{
     },2000)
 }
 let execute=()=>{
-      createEmployee({"eid":103,ename:"Priyanka",esal:65000})
+    createEmployee({"eid":103,ename:"Priyanka",esal:65000})
     getEmployees();
 }
 execute()
