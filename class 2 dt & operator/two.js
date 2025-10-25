@@ -1,4 +1,4 @@
-/*var uid=1001;
+var uid=1001;
 var uname="Rahul";
 var avail=false;
 var loc;
@@ -20,7 +20,7 @@ console.log(eids[0]); //101
 console.log(eids[1]); //102
 console.log(eids[2]); //103
 console.log(eids[3]); //104
-console.log(eids[10]); //undefined */
+console.log(eids[10]); //undefined 
 
 
 
